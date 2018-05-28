@@ -89,7 +89,7 @@
                 {
                     new Container()
                     {
-                        Speak = "<s>Hello!</s><s>Are you looking for a flight or a hotel?</s>",
+                        Speak = "<s>Hello!</s><s>I can help you with below requests</s>",
                         Items = new List<CardElement>()
                         {
                             new ColumnSet()
