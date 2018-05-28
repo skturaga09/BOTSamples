@@ -14,9 +14,9 @@
     [Serializable]
     public class RootDialog : IDialog<object>
     {
-        private const string FlightsOption = "Flights";
+        private const string FlightsOption = "Software Distribution";
 
-        private const string HotelsOption = "Hotels";
+        private const string HotelsOption = "Environment";
 
         public async Task StartAsync(IDialogContext context)
         {
